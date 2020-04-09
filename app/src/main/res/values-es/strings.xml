@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Já Gastei</string>
+    <string name="app_name">Ya Gastado</string>
     <string name="action_settings">Configurar</string>
     <string name="btn_gastar">Gastar :(</string>
     <string name="hint_valor">R$ 0,00</string>
